@@ -9,11 +9,34 @@ footer {
   align-items: flex-end;
 }
 
-.customer-relationship {
-  background-color: crimson;
+.cas {
   height: 60%;
   width: 30%;
   padding: 20px 35px;
+}
+
+.cas__title {
+  color: #FFF;
+}
+
+.cas__card {
+  display: flex;
+  margin: 10px auto;
+  padding: 5px 0;
+}
+
+.cas__card___contact {
+  margin-left: 10px;
+  color: #fff;
+}
+
+.cas__card___contact____label {
+  font-size: 12px;
+}
+
+.cas__card___contact____content {
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .footer-content {
