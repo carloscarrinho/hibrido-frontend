@@ -21,7 +21,7 @@
   <header class="header">
     <div class="header__item">
       <span class="header__item___search">
-        <input type="text" id="" placeholder="O que você procura?" />
+        <input type="text" placeholder="O que você procura?" />
         <i class="fas fa-search"></i>
       </span>
     </div>
@@ -868,45 +868,37 @@
       <form class="search__form">
         <div class="search__form___group">
           <span class="search__form___group____title">MONTADORA</span>
-          <select class="search__form___group____select" name="" id="">
-            <option value="">AGRALE</option>
-            <option value="">ALFA ROMEO</option>
-            <option value="">ASIA</option>
+          <select class="search__form___group____select" name="" id="brand">
+            <option value="Selecione">Selecione</option>
+            <option value="JEEP">JEEP</option>
+            <option value="ALFA ROMEO">ALFA ROMEO</option>
+            <option value="ASIA">ASIA</option>
           </select>
         </div>
 
         <div class="search__form___group">
           <span class="search__form___group____title">MODELO</span>
-          <select class="search__form___group____select" name="" id="" disabled>
-            <option value="">Selecione</option>
-            <option value="">AGRALE</option>
-            <option value="">ALFA ROMEO</option>
-            <option value="">ASIA</option>
+          <select class="search__form___group____select" name="" id="model" disabled>
+            <option value="Selecione">Selecione</option>
           </select>
         </div>
 
         <div class="search__form___group">
           <span class="search__form___group____title">VERSÃO</span>
-          <select class="search__form___group____select" name="" id="" disabled>
-            <option value="">Selecione</option>
-            <option value="">AGRALE</option>
-            <option value="">ALFA ROMEO</option>
-            <option value="">ASIA</option>
+          <select class="search__form___group____select" name="" id="version" disabled>
+            <option value="Selecione">Selecione</option>
           </select>
         </div>
 
         <div class="search__form___group">
-          <span class="search__form___group____title">MODELO</span>
-          <select class="search__form___group____select" name="" id="" disabled>
+          <span class="search__form___group____title">MOTOR</span>
+          <select class="search__form___group____select" name="" id="engine" disabled>
             <option value="">Selecione</option>
-            <option value="">AGRALE</option>
-            <option value="">ALFA ROMEO</option>
-            <option value="">ASIA</option>
           </select>
         </div>
         <div class="search__form___submit">
           <button class="search__form___submit____button">ENCONTRAR PEÇAS</button>
-          <a class="search__form___submit____clear" href="#">Limpar</a>
+          <a class="search__form___submit____clear" href="#" id="clear">Limpar</a>
         </div>
       </form>
     </section>
@@ -1143,6 +1135,7 @@
     </div>
   </footer>
   
-  <script src="./js/scripts.js"></script>
+  <script type="text/javascript" src="./js/data.js"></script>
+  <script type="text/javascript" src="./js/scripts.js"></script>
 </body>
 </html>
