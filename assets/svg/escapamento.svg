@@ -1,0 +1,23 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="Layer_1" data-name="Layer 1" viewBox="0 0 499.63953 395.04953" version="1.1" sodipodi:docname="escapamento.svg" width="499.63953" height="395.04953" inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+  <metadata id="metadata30">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1302" inkscape:window-height="704" id="namedview28" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="-135.24498" inkscape:cy="110.77012" inkscape:window-x="64" inkscape:window-y="27" inkscape:window-maximized="1" inkscape:current-layer="Layer_1"></sodipodi:namedview>
+  <defs id="defs7">
+    <style id="style2">.cls-1,.cls-2{fill:none;}.cls-2{stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:11px;}.cls-3{clip-path:url(#clip-path);}</style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="319.17001" y="710.94" width="184.12" height="184.12" id="rect4" style="fill:none"></rect>
+    </clipPath>
+  </defs>
+  <path class="cls-2" d="m 313.00977,193.41976 c -48.35,47 -86.46,84 -134.9,131.06" id="path11" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:11px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <path class="cls-2" d="m 269.11977,103.91976 c 5.8,-5.999997 11.09,-11.669997 16.52,-17.149997 q 18.68,-18.84 37.47,-37.56 a 41.77,41.77 0 0 1 58.23,-0.65 c 5.23,5 10.27,10.25 15.4,15.38 5.49,5.49 11.64,5.64 17.09,0.22 q 20,-19.9 39.92,-39.95 c 6.15,-6.2 12.14,-12.56 18.09,-18.7099995 l 22.3,22.5499995 c -7,6.87 -14.2,14 -21.38,21.13 q -18.66,18.59 -37.27,37.22 c -17.14,17.079997 -42.37,17.269997 -59.83,0.42 -4.85,-4.68 -9.54,-9.52 -14.31,-14.29 -5.73,-5.72 -11.64,-5.86 -17.31,-0.22 q -25.42,25.31 -50.76,50.709997 c -0.7,0.7 -1.3,1.5 -2.43,2.83" id="path13" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:11px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <path class="cls-2" d="m 63.409773,216.37976 c 48.309997,-46.95 85.999997,-83.62 134.609997,-130.819997" id="path15" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:11px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <path class="cls-2" d="m 114.96977,320.43976 -68.779997,69.11 -40.6899997,-41.05 68.0799997,-67.87" id="path17" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:11px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <rect class="cls-2" x="183.43413" y="-110.68086" width="190.36" height="25.83" transform="rotate(45)" id="rect19" style="fill:none;stroke:#ffffff;stroke-width:11px;stroke-linecap:round;stroke-linejoin:round"></rect>
+  <rect class="cls-2" x="184.03954" y="111.59113" width="190.36" height="25.83" transform="rotate(45)" id="rect21" style="fill:none;stroke:#ffffff;stroke-width:11px;stroke-linecap:round;stroke-linejoin:round"></rect>
+</svg>

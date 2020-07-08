@@ -1,0 +1,9 @@
+/* opt-in section */
+
+.opt-in {
+  padding: 20px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

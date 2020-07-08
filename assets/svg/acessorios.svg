@@ -1,0 +1,18 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="Layer_1" data-name="Layer 1" viewBox="0 0 512 512" version="1.1" sodipodi:docname="Acessórios-01.svg" inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+  <metadata id="metadata19">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1302" inkscape:window-height="704" id="namedview17" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="64" inkscape:window-y="27" inkscape:window-maximized="1" inkscape:current-layer="Layer_1"></sodipodi:namedview>
+  <defs id="defs4">
+    <style id="style2">.cls-1,.cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}.cls-1{stroke-width:13px;}.cls-2{stroke-width:5px;}</style>
+  </defs>
+  <path class="cls-1" d="M10.51,224.2C13.45,213,31.9,156.32,232.9,141.05c150.33-11.42,220.42,5.26,248.83,13.36,12.86,3.68,17.28,11.71,20.32,24.74,5.16,22.14,8.31,205-123.95,200H147.58a211.76,211.76,0,0,1-68-11,133.28,133.28,0,0,1-22.27-9.57C35.84,346.5,15.76,327.26,12,290.9,8.47,256.47,6.16,240.84,10.51,224.2Z" id="path8"></path>
+  <path class="cls-1" d="M358.69,378.23C454.61,380.85,472.19,213.6,468,197c-2.17-8.56-9.23-15.37-18.44-17.78-25.67-6.73-78-13.63-207.7-5.12-77.62,5.09-145.22,19.4-171.56,36.18" id="path10"></path>
+  <path class="cls-1" d="m 105.75,201 c 0,0 -46.13,-5.11 -59.12,45.27 -12.99,50.38 20.36,79 41.26,87.56 48.35,19.72 210.53,21 275.5,4.45 47.19,-12 56.7,-56 58.38,-79.07 a 11.29,11.29 0 0 0 -13.36,-11.9 c -48.21,9.07 -210.47,39 -239.72,36.25 C 134.26,280.39 151.22,208 105.75,201 Z" id="path12" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:13px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <circle class="cls-2" cx="183.96" cy="237.13" r="7.64" id="circle14"></circle>
+</svg>

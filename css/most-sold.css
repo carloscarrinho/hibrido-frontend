@@ -1,0 +1,51 @@
+/* most-sold section */
+
+.most-sold {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.most-sold__title {
+  padding-bottom: 15px;
+}
+
+.most-sold__lines {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.most-sold__lines___first {
+  color: red;
+  background-color: #E63D3A;
+  height: 2px;
+  border: 0;
+  width: 7%;
+}
+
+.most-sold__lines___second {
+  background-color: #E4E4E4;
+  align-self: flex-end;
+  height: 2px;
+  border: 0;
+  width: 93%;
+}
+
+.most-sold__content {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.most-sold__offer {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.most-sold__offer___item {
+  height: 280px;
+}

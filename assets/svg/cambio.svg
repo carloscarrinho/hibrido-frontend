@@ -1,0 +1,20 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="Layer_1" data-name="Layer 1" viewBox="0 0 296.31937 498.81549" version="1.1" sodipodi:docname="Câmbio.svg" width="296.31937" height="498.81549" inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+  <metadata id="metadata23">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="772" inkscape:window-height="480" id="namedview21" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="152.49867" inkscape:cy="238.53254" inkscape:window-x="64" inkscape:window-y="27" inkscape:window-maximized="0" inkscape:current-layer="Layer_1"></sodipodi:namedview>
+  <defs id="defs4">
+    <style id="style2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:16px;}</style>
+  </defs>
+  <path class="cls-1" d="m 233.80969,93.705497 a 85.65,85.65 0 1 0 -124.58,76.230003 v 25 a 15.62,15.62 0 0 0 15.57,15.58 h 46.72 a 15.62,15.62 0 0 0 15.57,-15.58 v -25 a 85.58,85.58 0 0 0 46.72,-76.230003 z" id="path8" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:16px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <path class="cls-1" d="m 93.64969,93.705497 a 54.57,54.57 0 0 1 54.51,-54.51" id="path10" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:16px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <rect class="cls-1" x="124.79969" y="210.50551" width="46.720001" height="202.45" id="rect12" style="fill:none;stroke:#ffffff;stroke-width:16px;stroke-linecap:round;stroke-linejoin:round"></rect>
+  <path class="cls-1" d="m 249.38969,444.0955 h -202.46 c -23.36,0 -38.9299998,46.72 -38.9299998,46.72 H 288.31969 c 0,0 -15.57,-46.72 -38.93,-46.72 z" id="path14" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:16px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <path class="cls-1" d="m 202.66969,412.9555 h -109 c -15.57,0 -23.36,31.14 -23.36,31.14 h 155.72 c 0,0 -7.79,-31.14 -23.36,-31.14 z" id="path16" inkscape:connector-curvature="0" style="fill:none;stroke:#ffffff;stroke-width:16px;stroke-linecap:round;stroke-linejoin:round"></path>
+  <line class="cls-1" x1="179.30968" y1="46.985497" x2="179.30968" y2="46.985497" id="line18" style="fill:none;stroke:#ffffff;stroke-width:16px;stroke-linecap:round;stroke-linejoin:round"></line>
+</svg>

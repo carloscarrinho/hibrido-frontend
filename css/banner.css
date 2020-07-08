@@ -1,0 +1,10 @@
+/* Banner */
+
+.banner {
+  padding: 0;
+}
+
+.banner__img {
+  width: 100%;
+  margin-bottom: 0;
+}

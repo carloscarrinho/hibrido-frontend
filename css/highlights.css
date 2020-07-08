@@ -1,0 +1,40 @@
+/* highlights section */
+
+.highlights {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.highlights__title {
+  padding-bottom: 15px;
+}
+
+.highlights__lines {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.highlights__lines___first {
+  color: red;
+  background-color: #E63D3A;
+  height: 2px;
+  border: 0;
+  width: 7%;
+}
+
+.highlights__lines___second {
+  background-color: #E4E4E4;
+  align-self: flex-end;
+  height: 2px;
+  border: 0;
+  width: 93%;
+}
+
+.highlights__content {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

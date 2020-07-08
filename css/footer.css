@@ -1,0 +1,54 @@
+/* footer styles */
+
+footer {
+  background-color: #111111;
+  height: 82vh;
+  border-top: 10px solid #E63D3A;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.customer-relationship {
+  background-color: crimson;
+  height: 60%;
+  width: 30%;
+  padding: 20px 35px;
+}
+
+.footer-content {
+  background-color: #777;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 65%;
+  width: 70%;
+}
+
+.footer-content__links {
+  background-color: darkblue;
+}
+
+.footer-content__links___item {
+  padding: 20px;
+}
+
+.footer-content__links li {
+  list-style-type: none;
+}
+
+.footer-content__payment-method {
+  background-color: #E63D3A;
+  padding: 20px;
+  margin: 15px;
+}
+
+.copyright {
+  background-color: #444;
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+  padding: 10px;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
