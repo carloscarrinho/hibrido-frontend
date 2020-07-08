@@ -1,50 +1,127 @@
 /* footer styles */
 
+/* section customer attendance service (CAS) */
 footer {
   background-color: #111111;
-  height: 82vh;
   border-top: 10px solid #E63D3A;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   align-items: flex-end;
 }
 
-.customer-relationship {
-  background-color: crimson;
-  height: 60%;
+footer .body {
+  height: 75vh;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 25px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.cas {
+  height: 75%;
   width: 30%;
   padding: 20px 35px;
 }
 
-.footer-content {
-  background-color: #777;
+.cas__title {
+  color: #FFF;
+  font-size: 16px;
+}
+
+.cas__card {
+  display: flex;
+  margin: 20px auto;
+  padding: 5px 0;
+}
+
+.cas__card___contact {
+  margin-left: 20px;
+  color: #fff;
+}
+
+.cas__card___contact____label {
+  font-size: 13px;
+  line-height: 1.5em;
+}
+
+.cas__card___contact____content {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* section links */
+
+.links {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 65%;
+  height: 90%;
   width: 70%;
 }
 
-.footer-content__links {
-  background-color: darkblue;
+.links__body {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
 }
 
-.footer-content__links___item {
+.links__body___item {
   padding: 20px;
 }
 
-.footer-content__links li {
+.links__body___item____title {
+  color: #E63D3A;
+  font-weight: bold;
+}
+
+.links__body___item____list li a {
+  color: #FFF;
+  text-decoration: none;
+  line-height: 1.75em;
+  font-size: 14px;
+}
+.links__body___item____list li a:hover {
+  color: #E63D3A;
+}
+
+.links__body___item____social {
+  margin-top: 5px;
+}
+.links__body___item____social img {
+  margin-right: 5px;
+}
+
+.links__body li {
   list-style-type: none;
 }
 
-.footer-content__payment-method {
+.links__payment {
   background-color: #E63D3A;
+  width: 100%;
   padding: 20px;
-  margin: 15px;
+  display: flex;
+  justify-content: center;
 }
 
+.links__payment___body {
+  height: 100%;
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.links__payment___body div h5 {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 400;
+  padding-bottom: 20px;
+}
+
+
+/* copyright section */
+
 .copyright {
-  background-color: #444;
   width: 100%;
   text-align: center;
   font-size: 12px;
