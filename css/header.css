@@ -5,11 +5,13 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 15px;
 }
 
 .header__item {
   color: #fff;
+  display: flex;
+  align-items: center;
 }
 
 .header__item___search {
@@ -24,18 +26,39 @@ header {
   background-color: transparent;
   border: 0;
   color: #fff;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  font-family: Roboto, sans-serif;
 }
 .header__item___search input::-webkit-input-placeholder  { 
-  color:#fff; 
+  color:#fff;
+  font-size: 14px;
+}
+
+.header__item___icon {
+  height: 24px;
+  font-size: 24px;
+  margin-right: 5px;
 }
 
 .header__item___link {
   text-decoration: none;
   color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 19px;
+  font-family: 'Open Sans';
 }
 
+.header__item___link:hover {
+  text-decoration: underline;
+}
 
 .header__item .logo {
   height: 60px;
+}
+
+.header__item___number {
+  font-size: 12px;
+  font-weight: bold;
 }
