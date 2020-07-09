@@ -1,55 +1,59 @@
 /* swiper styles */
 
-.swiper-container {
-  width: 100%;
-  height: 500px;
-  margin: 20px auto;
-}
+/* body {
+  background: #000;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #FFF;
+  margin: 0;
+  padding: 0;
+} */
 
-.swiper-wrapper {
-  background-color: yellow;
-  display: flex;
-  width: 90%;
-  margin: 0 auto;
+.swiper-container {
+  /* background-color: aqua; */
+  width: 100%;
+  padding: 50px 75px;
 }
 
 .swiper-slide {
-  height: 400px;
+  /* background-color: blueviolet; */
+  background-position: center;
+  background-size: cover;
+  height: 500px ;
+  color: #000;
+  margin: 0 10px 0 10px;
   width: 20%;
-  text-align: center;
-  font-size: 18px;
-  background: cyan;
-
-  /* Center slide text vertically */
-  /* display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
   display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  align-items: center; */
-
   flex-direction: column;
 }
 
-
-.append-buttons {
-  text-align: center;
-  margin-top: 20px;
+.swiper-slide__photo {
+  border: 1px solid #777;
 }
 
-.append-buttons a {
-  display: inline-block;
-  border: 1px solid #E63D3A;
+.swiper-slide__title {
   color: #E63D3A;
-  text-decoration: none;
-  padding: 4px 10px;
-  border-radius: 4px;
-  margin: 0 10px;
-  font-size: 13px;
+  font-weight: bold;
+}
+
+.swiper-slide__complement {
+  color: #777
+}
+
+.swiper-slide__price___old {
+  font-size: 18px;
+  color: #777;
+  text-decoration: line-through;
+}
+.swiper-slide__price___current {
+  font-size: 22px;
+  color: #E63D3A;
+  font-weight: bold;
+}
+
+.swiper-button-prev,
+.swiper-button-next{
+  height: 25px;
+  background-image: none;
+  font-size: 25px;
 }
